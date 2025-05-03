@@ -20,6 +20,8 @@ translateWithGoogle: false
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/KIKI-eu/ai-literacy-101)
+
 # AI Literacy 101
 
 ## Introduction: Really? Another AI course?
