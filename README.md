@@ -12,7 +12,7 @@ language: en
 
 mode:     Presentation
 
-repository: https://github.com/LiaScript/docs
+repository: https://github.com/KIKI-eu/ai-literacy-101
 
 
 translateWithGoogle: false
