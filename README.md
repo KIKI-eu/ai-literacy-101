@@ -17,6 +17,16 @@ repository: https://github.com/LiaScript/docs
 
 translateWithGoogle: false
 
+classroom: disable
+
+sharing: false
+
+@style
+
+
+
+@end
+
 
 -->
 
@@ -24,19 +34,43 @@ translateWithGoogle: false
 
 # AI Literacy 101
 
-## Introduction: Really? Another AI course?
-
-    --{{0}}--
-!?[⏯](vid/Intro_Emily.mp4)
+## How to use this e-learning
 
 
-1.  **Addressing the Specific European Regulatory & Ethical Landscape:** While global resources exist, a course specifically designed for a European audience can deeply integrate key considerations like the EU AI Act, GDPR implications for AI use, and the specific ethical frameworks being discussed and implemented across European nations. This provides highly relevant and actionable knowledge for companies navigating compliance and individuals understanding their rights and the societal impact within the EU context.
 
-2. **Filling a Gap in Accessible, Neutral, and Practical Content:** Many AI learning resources are either highly technical (for engineers), focused on specific vendor tools, or behind paywalls. An *open* source provides barrier-free access for individuals and SMEs who might lack budget. By focusing on *literacy* rather than deep technical skills, and being vendor-neutral, it can offer a foundational, unbiased understanding that empowers a broader audience to engage critically and effectively with AI.
+## Really? Another AI course? 
 
-3. **Staying Current with Rapid AI Evolution:** The field of AI, especially with the rise of generative AI, is evolving at an unprecedented pace. Existing learning materials can quickly become outdated. A new, actively managed course can incorporate the latest developments, emerging applications, and contemporary challenges (like deepfakes, bias in large models, environmental impact), providing learners with the most current and relevant information.
+        --{{0}}--
+?[⏯](audio/intro_0.wav)
 
-4.  **Building Confidence and Reducing Fear/Hype:** AI literacy is crucial for separating hype from reality, understanding capabilities *and* limitations, and mitigating fear or resistance towards AI adoption. A well-structured, approachable course can demystify AI, build confidence in discussing and interacting with AI systems, and empower individuals and companies to identify genuine opportunities and risks, fostering responsible innovation and adoption within Europe.
+You are probably here because you -- like many other companies in Europe -- are under the obligation to provide AI literacy to your employees.
+You probably also received 20 e-mails from law firms and corporate learning platforms to buy their brand new AI e-learning -- been there, done that.
+This course right here is not only *another* and here is why: 
 
-5.  **Tailoring Pedagogy and Examples to European Contexts:** Beyond regulations, the course can use examples, case studies, and cultural references that resonate specifically with European industries, public services, and daily life. This makes the learning material more relatable, understandable, and impactful for the target audience compared to courses developed with a purely US or Asian market perspective.
+
+        --{{1}}--
+?[⏯](audio/intro_1.wav)
+
+            {{1}}
+<section>
+**Truly free and open source: ** 
+
+> * This course and its derivatives are open source and thus freely available for you or your company. 
+> * By providing free, accessible, and open-source e-learning, we want to  empower individuals, SMEs, and organizations of all sizes to understand the Act's requirements, assess their own practices, and adapt accordingly. 
+> * Open source enables you to create high-quality, customisable and maintainable courses.
+
+</section>
+
+        --{{2}}--
+?[⏯](audio/intro_2.wav)
+
+
+            {{2}}
+<section>
+**Building knowledge as a community** 
+
+> * Open-source projects thrive on community involvement. By releasing the e-learning materials under an open license, we want to invite others to contribute, adapt, and improve them. 
+> * This fosters a collaborative environment where experts, educators, and learners can share their knowledge, experiences, and best practices.
+</section>
+
 
